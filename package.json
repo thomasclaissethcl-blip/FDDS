@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "build": "node tools/build-site.js"
+  },
+  "private": true,
+  "devDependencies": {}
+}
