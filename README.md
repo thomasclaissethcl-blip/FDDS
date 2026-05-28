@@ -1,4 +1,4 @@
-# Flash Dog Duke Silver présente — site statique
+# Flash Dog Duke Silver présente
 
 Cette version conserve le même fonctionnement public que la version précédente : page d’accueil, filtres par catégorie, recherche dynamique et chargement des articles.
 
