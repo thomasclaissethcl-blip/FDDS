@@ -1,0 +1,10 @@
+{
+  "slug": "credit-interstellaire",
+  "title": "Crédit Interstellaire",
+  "summary": "Une pièce d'1,π Crestell Le crédit interstellaire (CI, ou \"Crestell\") est la devise en vigueur dans l’ Empire Galactique . 1 Crestell ne suffit pas pour acheter une baguette, c'est un poil plus cher quand même, mais pas tant que ça. Le...",
+  "image": "assets/images/ci-devise-interstellaire.webp",
+  "categories": [
+    "Économie"
+  ],
+  "bodyHtml": "<figure class=\"media-figure\"> <a href=\"assets/images/ci-devise-interstellaire.webp\"><img alt=\"Une pièce d'1,π Crestell\" src=\"assets/images/ci-devise-interstellaire.webp\"/></a> <figcaption class=\"media-caption\">  Une pièce d'1,π Crestell </figcaption> </figure>\n<p>Le crédit interstellaire (CI, ou \"Crestell\") est la devise en vigueur dans l’<a data-page=\"pages/empire-galactique.html\" data-slug=\"empire-galactique\" href=\"#/empire-galactique\" title=\"Empire Galactique\">Empire Galactique</a>.\n</p><p>1 Crestell ne suffit pas pour acheter une baguette, c'est un poil plus cher quand même, mais pas tant que ça. Le Crestell est exponentiel et non linéaire, on estime que quelques Crestell permettent d'acquérir un bien immobilier de l'espace.\n</p>"
+}

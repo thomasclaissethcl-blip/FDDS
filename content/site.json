@@ -1,0 +1,13 @@
+{
+  "title": "Flash Dog Duke Silver présente",
+  "description": "Site statique de référence sur le lore de Flash Dog Duke Silver présente, avec recherche et navigation par catégories.",
+  "language": "fr",
+  "brand": {
+    "label": "Flash Dog Duke Silver présente",
+    "logo": "assets/images/site-logo.webp"
+  },
+  "assets": {
+    "css": "assets/css/styles.css",
+    "js": "assets/js/site.js"
+  }
+}

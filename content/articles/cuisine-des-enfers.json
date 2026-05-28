@@ -1,0 +1,10 @@
+{
+  "slug": "cuisine-des-enfers",
+  "title": "Cuisine des Enfers",
+  "summary": "Un homme contraint de couper du citron. Un autre homme contraint de couper du citron. La Cuisine des Enfers est une cuisine où des gens sont contraints de couper du citron.",
+  "image": "assets/images/citron-1.webp",
+  "categories": [
+    "Lieu"
+  ],
+  "bodyHtml": "<figure class=\"media-figure\"> <a href=\"assets/images/citron-1.webp\"><img alt=\"Un homme  contraint de couper du citron.\" src=\"assets/images/citron-1.webp\"/></a> <figcaption class=\"media-caption\">  Un homme  contraint de couper du citron. </figcaption> </figure>\n<figure class=\"media-figure\"> <a href=\"assets/images/citron-2.webp\"><img alt=\"Un autre homme  contraint de couper du citron.\" src=\"assets/images/citron-2.webp\"/></a> <figcaption class=\"media-caption\">  Un autre homme  contraint de couper du citron. </figcaption> </figure>\n<p>La Cuisine des Enfers est une cuisine où des gens sont contraints de couper du citron.\n</p>"
+}
