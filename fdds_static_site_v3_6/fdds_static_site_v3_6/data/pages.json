@@ -1,0 +1,272 @@
+[
+  {
+    "slug": "apollogetique",
+    "title": "Apollogétique",
+    "path": "pages/apollogetique.html",
+    "categories": [
+      "Notion"
+    ]
+  },
+  {
+    "slug": "capitaine-philippe-verre",
+    "title": "Capitaine Philippe Verre",
+    "path": "pages/capitaine-philippe-verre.html",
+    "categories": [
+      "Personnage"
+    ]
+  },
+  {
+    "slug": "cargo-synapse",
+    "title": "Cargo Synapse",
+    "path": "pages/cargo-synapse.html",
+    "categories": [
+      "Vaisseau spatial"
+    ]
+  },
+  {
+    "slug": "christele-du-boudoir",
+    "title": "Christèle du Boudoir",
+    "path": "pages/christele-du-boudoir.html",
+    "categories": [
+      "Personnage"
+    ]
+  },
+  {
+    "slug": "chroniqueurs",
+    "title": "Chroniqueurs",
+    "path": "pages/chroniqueurs.html",
+    "categories": [
+      "Notion"
+    ]
+  },
+  {
+    "slug": "credit-interstellaire",
+    "title": "Crédit Interstellaire",
+    "path": "pages/credit-interstellaire.html",
+    "categories": [
+      "Économie"
+    ]
+  },
+  {
+    "slug": "cuisine-des-enfers",
+    "title": "Cuisine des Enfers",
+    "path": "pages/cuisine-des-enfers.html",
+    "categories": [
+      "Lieu"
+    ]
+  },
+  {
+    "slug": "empire-galactique",
+    "title": "Empire Galactique",
+    "path": "pages/empire-galactique.html",
+    "categories": [
+      "Politique"
+    ]
+  },
+  {
+    "slug": "fenouil",
+    "title": "Fenouil",
+    "path": "pages/fenouil.html",
+    "categories": [
+      "Artefact"
+    ]
+  },
+  {
+    "slug": "fusion-oui-absorption-non",
+    "title": "Fusion oui, absorption non !",
+    "path": "pages/fusion-oui-absorption-non.html",
+    "categories": [
+      "Politique"
+    ]
+  },
+  {
+    "slug": "gros-jack-et-petit-jack",
+    "title": "Gros Jack et Petit Jack",
+    "path": "pages/gros-jack-et-petit-jack.html",
+    "categories": [
+      "Personnage"
+    ]
+  },
+  {
+    "slug": "hendiatrique",
+    "title": "Hendiatrique",
+    "path": "pages/hendiatrique.html",
+    "categories": [
+      "Langue",
+      "Notion"
+    ]
+  },
+  {
+    "slug": "humain-parfait",
+    "title": "Humain Parfait",
+    "path": "pages/humain-parfait.html",
+    "categories": [
+      "Industrie"
+    ]
+  },
+  {
+    "slug": "intelligence-d-autoguidage-cloudee",
+    "title": "Intelligence d’autoguidage cloudée",
+    "path": "pages/intelligence-d-autoguidage-cloudee.html",
+    "categories": [
+      "Industrie"
+    ]
+  },
+  {
+    "slug": "jacques-citrus-et-son-armee-de-citrons",
+    "title": "Jacques Citrus et son armée de citrons",
+    "path": "pages/jacques-citrus-et-son-armee-de-citrons.html",
+    "categories": [
+      "Personnage",
+      "Politique"
+    ]
+  },
+  {
+    "slug": "jacques-homme-dore",
+    "title": "Jacques Homme Doré",
+    "path": "pages/jacques-homme-dore.html",
+    "categories": [
+      "Personnage"
+    ]
+  },
+  {
+    "slug": "jardiniers",
+    "title": "Jardiniers",
+    "path": "pages/jardiniers.html",
+    "categories": [
+      "Race galactique"
+    ]
+  },
+  {
+    "slug": "le-cogito",
+    "title": "Le Cogito",
+    "path": "pages/le-cogito.html",
+    "categories": [
+      "Vaisseau spatial"
+    ]
+  },
+  {
+    "slug": "le-rodeur",
+    "title": "Le Rôdeur",
+    "path": "pages/le-rodeur.html",
+    "categories": [
+      "Race galactique"
+    ]
+  },
+  {
+    "slug": "lucien-chanceux",
+    "title": "Lucien Chanceux",
+    "path": "pages/lucien-chanceux.html",
+    "categories": [
+      "Personnage"
+    ]
+  },
+  {
+    "slug": "machins",
+    "title": "Machins",
+    "path": "pages/machins.html",
+    "categories": [
+      "Industrie",
+      "Politique",
+      "Race galactique"
+    ]
+  },
+  {
+    "slug": "moustiquaire",
+    "title": "Moustiquaire",
+    "path": "pages/moustiquaire.html",
+    "categories": [
+      "Industrie"
+    ]
+  },
+  {
+    "slug": "napoleon-d-artagnan",
+    "title": "Napoléon D’Artagnan",
+    "path": "pages/napoleon-d-artagnan.html",
+    "categories": [
+      "Politique",
+      "Industrie"
+    ]
+  },
+  {
+    "slug": "pendant-ce-temps-la",
+    "title": "Pendant ce temps-là...",
+    "path": "pages/pendant-ce-temps-la.html",
+    "categories": [
+      "Source"
+    ]
+  },
+  {
+    "slug": "pornstar-martini",
+    "title": "Pornstar Martini",
+    "path": "pages/pornstar-martini.html",
+    "categories": [
+      "Lieu"
+    ]
+  },
+  {
+    "slug": "patee-pour-chats",
+    "title": "Pâtée pour chats",
+    "path": "pages/patee-pour-chats.html",
+    "categories": [
+      "Industrie"
+    ]
+  },
+  {
+    "slug": "renegats-d-artagnan",
+    "title": "Renégats D’Artagnan",
+    "path": "pages/renegats-d-artagnan.html",
+    "categories": [
+      "À catégoriser"
+    ]
+  },
+  {
+    "slug": "rochdie-des-cartes",
+    "title": "Rochdie des Cartes",
+    "path": "pages/rochdie-des-cartes.html",
+    "categories": [
+      "Personnage"
+    ]
+  },
+  {
+    "slug": "resistance-machine",
+    "title": "Résistance Machine",
+    "path": "pages/resistance-machine.html",
+    "categories": [
+      "Politique"
+    ]
+  },
+  {
+    "slug": "source-sure",
+    "title": "Source Sûre",
+    "path": "pages/source-sure.html",
+    "categories": [
+      "Source"
+    ]
+  },
+  {
+    "slug": "stephane-de-saint-empire",
+    "title": "Stéphane de Saint-Empire",
+    "path": "pages/stephane-de-saint-empire.html",
+    "categories": [
+      "Personnage"
+    ]
+  },
+  {
+    "slug": "vega",
+    "title": "Vega",
+    "path": "pages/vega.html",
+    "categories": [
+      "Personnage"
+    ]
+  },
+  {
+    "slug": "verbumproverbo-ancien",
+    "title": "Verbumproverbo ancien",
+    "path": "pages/verbumproverbo-ancien.html",
+    "categories": [
+      "Langue",
+      "Notion"
+    ]
+  }
+]

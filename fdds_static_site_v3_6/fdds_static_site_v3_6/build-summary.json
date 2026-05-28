@@ -1,0 +1,29 @@
+{
+  "main_pages": 42,
+  "generated_article_pages": 34,
+  "navigation_pages": 34,
+  "images": 42,
+  "output": "/mnt/data/fdds_static_site",
+  "version": "v3.2-spa-shell-direct-links",
+  "cleanup": {
+    "removed_toc": true,
+    "normalized_infoboxes": true,
+    "converted_fandom_galleries": true,
+    "removed_fandom_parser_wrappers": true,
+    "normalized_missing_pages": true,
+    "stripped_fandom_classes_and_data_attributes": true
+  },
+  "article_fragments": 34,
+  "mode": "index.html conserve la sidebar et charge les fragments pages/*.html dans main#contenu ; les anciens liens de redirection sont résolus vers leur cible finale",
+  "removed_redirect_fragments": 8,
+  "redirect_aliases": {
+    "accueil": "wiki-flash-dog-duke-silver-presente-2",
+    "appologetique": "apollogetique",
+    "armee-citronnee": "jacques-citrus-et-son-armee-de-citrons",
+    "astronef": "le-cogito",
+    "credits-interstellaires": "credit-interstellaire",
+    "jac-citrus-et-son-armee-de-citrons": "jacques-citrus-et-son-armee-de-citrons",
+    "membres-supposes": "chroniqueurs",
+    "wiki-flash-dog-duke-silver-presente": "wiki-flash-dog-duke-silver-presente-2"
+  }
+}

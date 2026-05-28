@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Flash Dog Duke Silver présente</title>
+<meta content="Site statique de référence sur le lore de Flash Dog Duke Silver présente, avec recherche et navigation par catégories." name="description"/>
+<link href="assets/css/styles.css" rel="stylesheet"/>
+<script defer src="assets/js/site.js"></script>
+</head>
+<body>
+<a class="skip-link" href="#contenu">Aller au contenu</a>
+<header class="site-header">
+  <div class="brand">
+    <a class="brand-link" data-home="true" href="index.html">
+      <img alt="" class="brand-logo" src="assets/images/site-logo.webp"/>
+      <span>Flash Dog Duke Silver présente</span>
+    </a>
+  </div>
+</header>
+<div class="site-shell">
+<main class="site-main" data-view="home" id="contenu" tabindex="-1">
+  <section class="home-intro" id="home-intro">
+    <div class="home-intro-toolbar">
+      <button aria-controls="home-intro-content" aria-expanded="true" class="intro-toggle" id="toggle-intro" type="button">Masquer la présentation</button>
+    </div>
+    <div class="home-intro-content" id="home-intro-content">
+      <section class="hero">
+        <div>
+          <h1>Flash Dog Duke Silver présente</h1>
+          <p>… l'univers complet de la Galaxie Napoléon D'Artagnan, tel que rapporté par <a data-page="pages/chroniqueurs.html" data-slug="chroniqueurs" href="#/chroniqueurs" title="Chroniquers">les Chroniqueurs</a> sur la base d'un travail d'archéologie foucaldienne d'articles de <a data-page="pages/source-sure.html" data-slug="source-sure" href="#/source-sure">Source Sûre</a>.</p>
+        </div>
+        <div class="hero-image"><img alt="" src="assets/images/fdds.webp"/></div>
+      </section>
+      <section class="article article-body home-description">
+        <div>
+          <p>Le site de référence sur le lore de l’<a data-page="pages/empire-galactique.html" data-slug="empire-galactique" href="#/empire-galactique" title="Empire Galactique">Empire Galactique</a>, siège des aventures de <a data-page="pages/jacques-homme-dore.html" data-slug="jacques-homme-dore" href="#/jacques-homme-dore" title="Jacques Homme Doré">Jacques Homme Doré</a> et des manœuvres politiques de la toute puissante SARL multigalactique <a data-page="pages/napoleon-d-artagnan.html" data-slug="napoleon-d-artagnan" href="#/napoleon-d-artagnan" title="Napoléon D’Artagnan">Napoléon D’Artagnan</a>, de la <span class="missing-page" title="Guerre Gadino-garagienne (page inexistante)">guerre Gadino-garagiste</span> aux voyages des contrebandiers <a data-page="pages/gros-jack-et-petit-jack.html" data-slug="gros-jack-et-petit-jack" href="#/gros-jack-et-petit-jack" title="Gros Jack et Petit Jack">Gros Jack et Petit Jack</a>, des mystiques Bouclettes de <a data-page="pages/stephane-de-saint-empire.html" data-slug="stephane-de-saint-empire" href="#/stephane-de-saint-empire" title="Stéphane de Saint-Empire">Stéphane de Saint-Empire</a> au soulèvement des <a data-page="pages/machins.html" data-slug="machins" href="#/machins" title="Machins">Machins</a>, des amours impossibles de <a data-page="pages/lucien-chanceux.html" data-slug="lucien-chanceux" href="#/lucien-chanceux" title="Lucien Chanceux">Lucien Chanceux</a> à la révélation du mystérieux <a data-page="pages/fenouil.html" data-slug="fenouil" href="#/fenouil" title="Fenouil">Fenouil</a>.</p>
+          <hr/>
+          <p>"Flash Dog Duke Silver présente" serait un projet musical secret et transmédia dont les membres, au nombre et à l’origine inconnus, auraient dévoué leur vie et leur âme à l’accomplissement d’une seule tâche&nbsp;: faire la chronique des aventures de <a data-page="pages/jacques-homme-dore.html" data-slug="jacques-homme-dore" href="#/jacques-homme-dore" title="Jacques Homme Doré">Jacques Homme Doré</a> et l’élever au rang de légende.</p>
+          <p>Ce site est une tentative de description systématique de l’ensemble du lore entourant ces aventures.</p>
+        </div>
+      </section>
+    </div>
+  </section>
+
+  <section class="category-filter" aria-labelledby="categories-title">
+    <h2 id="categories-title">Catégories principales</h2>
+    <p class="section-intro">Sélectionnez une catégorie pour filtrer les articles.</p>
+    <div class="category-select-wrapper">
+      <label class="search-label" for="category-select">Filtrer par catégorie</label>
+      <select class="category-select" id="category-select"></select>
+    </div>
+    <div aria-live="polite" class="category-grid" id="category-grid"></div>
+  </section>
+
+  <section class="article-browser" aria-labelledby="articles-title">
+    <h2 id="articles-title">Les articles</h2>
+    <div class="article-search-panel" role="search">
+      <label class="search-label" for="site-search">Recherche dans les articles affichés</label>
+      <input autocomplete="off" class="site-search" id="site-search" placeholder="Rechercher un personnage, un lieu, une notion..." type="search"/>
+    </div>
+    <div class="filter-toolbar"><button class="filter-reset" id="clear-filters" type="button">Réinitialiser les filtres</button></div>
+    <p class="section-intro article-filter-summary" id="article-filter-summary">Tous les articles sont affichés.</p>
+    <div class="card-grid" data-dynamic-articles="true" id="article-grid"></div>
+    <p class="no-results" id="article-empty-state">Aucun article ne correspond aux filtres actifs.</p>
+  </section>
+</main>
+</div>
+</body>
+</html>

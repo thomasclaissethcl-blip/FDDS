@@ -1,0 +1,13 @@
+{
+  "version": "v3.5",
+  "changes": [
+    "suppression de la sidebar permanente",
+    "ajout d’une recherche globale dans le header",
+    "filtrage dynamique des cartes d’articles par catégorie et par recherche",
+    "génération des cartes depuis data/articles.json et data/categories.json",
+    "reconstruction de data/search-index.json à partir du contenu complet des articles"
+  ],
+  "articles": 33,
+  "categories": 12,
+  "search_index_entries": 33
+}
