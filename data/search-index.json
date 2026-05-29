@@ -315,6 +315,16 @@
     "searchText": "stephane de saint empire stephane de saint empire stephane de saint empire contemplant l avenement de l empire napoleon d artagnan type humain activite fondateur de la s a napoleon porte des bouclettes magiques entourage personne ennemi de personne premiere personnage stephane de saint empire stephane de saint empire contemplant l avenement de l empire napoleon d artagnan type humain activite fondateur de la s a napoleon porte des bouclettes magiques entourage personne ennemi de personne premiere apparition s01e10 marie marthe etat vivant au fond de l ocean fondateur de la s a napoleon il prend sa retraite au fond d un ocean lors de la transition vers la s a r l napoleon d artagnan rappele par certains cadres superieurs pour voter la transformation de la s a r l vers l empire napoleon d artagnan il est retrouve par le capitaine philippe verre et ramene au c a le temps du vote en faveur de l empire peu interesse par la chose politique il contemple l avenement de l empire puis file de nouveau s immerger au fond de l ocean fait remarquable c est grace a ses bouclettes magiques qu il emerge du fond de l ocean et s elevera au dessus des cimes des montagnes pour aller voter"
   },
   {
+    "slug": "test-perso",
+    "title": "Test de personnage",
+    "path": "pages/test-perso.html",
+    "categories": [
+      "Personnage"
+    ],
+    "summary": "Test d'article personnage depuis l'éditeur",
+    "searchText": "test de personnage test d article personnage depuis l editeur personnage test de personnage type test type activite test activite entourage test entourage ennemi de test ennemi premiere apparition test premiere apparition etat test etat test de titre 2test de titre 3test de paragraphe test de citation texte alternatif"
+  },
+  {
     "slug": "vega",
     "title": "Vega",
     "path": "pages/vega.html",

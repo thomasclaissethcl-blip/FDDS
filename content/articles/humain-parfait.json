@@ -6,5 +6,18 @@
   "categories": [
     "Industrie"
   ],
+  "template": "general",
+  "characterCard": {
+    "enabled": false,
+    "image": "",
+    "imageAlt": "",
+    "caption": "",
+    "type": "",
+    "activity": "",
+    "entourage": "",
+    "enemyOf": "",
+    "firstAppearance": "",
+    "status": ""
+  },
   "bodyHtml": "<figure class=\"media-figure\"><a href=\"assets/images/couper-du-citron.webp\"><img alt=\"Licnnin Jac en pleine prise de conscience lors de son dernier coupage de citron\" src=\"assets/images/couper-du-citron.webp\"/></a><figcaption class=\"media-caption\">Licnnin Jac en pleine prise de conscience lors de son dernier coupage de citron</figcaption></figure>\n<p>L'Humain Parfait est difficile à représenter, car la perfection est un concept hautement subjectif. De plus, il n'est pas clair s'il est possible pour un humain d'être \"parfait\". <a data-page=\"pages/napoleon-d-artagnan.html\" data-slug=\"napoleon-d-artagnan\" href=\"#/napoleon-d-artagnan\" title=\"Napoléon D’Artagnan\">Napoléon D’Artagnan</a> étant donc incapable de définir l'Humain Parfait, mais désireux de lancer cette nouvelle gamme de produit à forte valeur ajoutée, décide  de déléguer cette tâche aux <a data-page=\"pages/machins.html\" data-slug=\"machins\" href=\"#/machins\" title=\"Machins\">Machins</a>.\n</p>\n<h2 id=\"Mythologie_machine\">Mythologie machine</h2>\n<p>Selon la mythologie machine, Licnnin Jac, fut le premier homme à arrêter de couper du citron, alors qu'il se faisait un frichti tout fruit pour son programme \"Santé, Détox et bien-être dans les couloirs\". Dès lors, il put s'échapper de la <a data-page=\"pages/cuisine-des-enfers.html\" data-slug=\"cuisine-des-enfers\" href=\"#/cuisine-des-enfers\" title=\"Cuisine des Enfers\">Cuisine des Enfers</a> - d'où il était prisonnier -  et parcourir le monde pour épouser femmes et hommes qu'ils rencontraient et aimaient. Partout où il passait, les cultures prospéraient dans les champs, c'était le règne de l'abondance. Un jour, alors qu'il flânait sur les terres fertiles de <span class=\"missing-page\" title=\"Supergarage Excelsior (page inexistante)\">Supergarage Excelsior</span> sous les traits d'un homme heureux, Jac Citrus - son demi-frère par alliance - arriva et demanda l'hospitalité. Licnnin Jac accepta et l'accueillit avec une grande générosité.\n</p><p>Durant la nuit, <a data-page=\"pages/jacques-citrus-et-son-armee-de-citrons.html\" data-slug=\"jacques-citrus-et-son-armee-de-citrons\" href=\"#/jacques-citrus-et-son-armee-de-citrons\" title=\"Jac Citrus et son armée de citrons\">Jac Citrus</a> kidnappa Licnnin Jac à l'aide d'une <a data-page=\"pages/jacques-citrus-et-son-armee-de-citrons.html\" data-slug=\"jacques-citrus-et-son-armee-de-citrons\" href=\"#/jacques-citrus-et-son-armee-de-citrons\" title=\"Armée citronnée\">armée citronnée</a> et le ramena de force, en passant par les couloirs, dans la <a data-page=\"pages/cuisine-des-enfers.html\" data-slug=\"cuisine-des-enfers\" href=\"#/cuisine-des-enfers\" title=\"Cuisine des Enfers\">Cuisine des Enfers</a>. Le mythe raconte que depuis, Licnnin Jac coupe du citron et que les terres de <span class=\"missing-page\" title=\"Supergarage Excelsior (page inexistante)\">Supergarage Excelsior</span> sont devenus arides et infertiles.\n</p><p>Cette histoire est un mythe et donc probablement sans intérêt, mais c'est la seule étant parvenue aux oreilles mécatroniques des <a data-page=\"pages/machins.html\" data-slug=\"machins\" href=\"#/machins\" title=\"Machins\">Machins</a>, quoiqu'il en soit, selon cette mythologie, l'Humain Parfait n'est pas là pour couper du citron.\n</p>"
 }

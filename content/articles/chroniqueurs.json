@@ -6,5 +6,18 @@
   "categories": [
     "Notion"
   ],
+  "template": "general",
+  "characterCard": {
+    "enabled": false,
+    "image": "",
+    "imageAlt": "",
+    "caption": "",
+    "type": "",
+    "activity": "",
+    "entourage": "",
+    "enemyOf": "",
+    "firstAppearance": "",
+    "status": ""
+  },
   "bodyHtml": "<p>Les chroniqueurs seraient les membres supposés de Flash Dog Duke Silver, s’étant donné pour mission, suite à une révélation esthétique, de faire le récit <a data-page=\"pages/apollogetique.html\" data-slug=\"apollogetique\" href=\"#/apollogetique\" title=\"Apollogétique\">apollogétique</a> des aventures de <a data-page=\"pages/jacques-homme-dore.html\" data-slug=\"jacques-homme-dore\" href=\"#/jacques-homme-dore\" title=\"Jacques Homme Doré\">Jacques Homme Doré</a>. De <a data-page=\"pages/source-sure.html\" data-slug=\"source-sure\" href=\"#/source-sure\" title=\"Source Sûre\">Source Sûre</a>, ils font ce qu'ils peuvent.\n</p>\n<ul><li>Dr. Saki (PhD)</li>\n<li>Dr. John (PhD)</li></ul>"
 }

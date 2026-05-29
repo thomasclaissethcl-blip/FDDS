@@ -6,5 +6,18 @@
   "categories": [
     "Politique"
   ],
+  "template": "general",
+  "characterCard": {
+    "enabled": false,
+    "image": "",
+    "imageAlt": "",
+    "caption": "",
+    "type": "",
+    "activity": "",
+    "entourage": "",
+    "enemyOf": "",
+    "firstAppearance": "",
+    "status": ""
+  },
   "bodyHtml": "<figure class=\"media-figure\"> <a href=\"assets/images/drapeauempire.webp\"><img alt=\"Le drapeau de l’Empire Galactique, avant la prise de pouvoir par ND’A.\" src=\"assets/images/drapeauempire.webp\"/></a> <figcaption class=\"media-caption\">  Le drapeau de l’Empire Galactique, avant la prise de pouvoir par ND’A. </figcaption> </figure>\n<p>L’Empire Galactique est l’organisation politique qui régit l’ensemble des échanges interplanétaires à travers la Galaxie.\n</p><p>Peu d’éléments sont connus à son sujet, si ce n’est qu’il doit son expansion et son maintien à la découverte concomitante de la <a data-page=\"pages/patee-pour-chats.html\" data-slug=\"patee-pour-chats\" href=\"#/patee-pour-chats\" title=\"Pâtée pour chats\">pâtée pour chats</a> et de la <a data-page=\"pages/moustiquaire.html\" data-slug=\"moustiquaire\" href=\"#/moustiquaire\" title=\"Moustiquaire\">moustiquaire</a>, et qu’il est infiltré puis renversé pas la SARL <a data-page=\"pages/napoleon-d-artagnan.html\" data-slug=\"napoleon-d-artagnan\" href=\"#/napoleon-d-artagnan\" title=\"Napoléon D’Artagnan\">Napoléon D’Artagnan</a>, qui en prendra le contrôle à l’époque des <span class=\"missing-page\" title=\"Guerre gadino-garagiste (page inexistante)\">guerres gadino-garagistes</span>, bien que ces deux éléments n’aient rien à voir entre eux.\n</p>"
 }

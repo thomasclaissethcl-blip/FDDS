@@ -7,5 +7,18 @@
     "Langue",
     "Notion"
   ],
+  "template": "general",
+  "characterCard": {
+    "enabled": false,
+    "image": "",
+    "imageAlt": "",
+    "caption": "",
+    "type": "",
+    "activity": "",
+    "entourage": "",
+    "enemyOf": "",
+    "firstAppearance": "",
+    "status": ""
+  },
   "bodyHtml": "<p>Le verbumproverbo ancien, aussi appelé bas-métaphrique, serait une langue morte dont le lexique serait uniquement construit à partir de traductions littérales de termes et de locutions venant d’autres langues.\n</p><p>Dans la Galaxie, on trouverait des traces de cette langue dans de nombreux patronymes, matronymes et noms propres de personnes, de lieux, de marques, etc. Par exemple, et bien qu’il soit difficile d’en retracer l’origine exacte ou d’en attester les sources, les noms <a data-page=\"pages/lucien-chanceux.html\" data-slug=\"lucien-chanceux\" href=\"#/lucien-chanceux\" title=\"Lucien Chanceux\">Lucien Chanceux</a> ou <a data-page=\"pages/jacques-homme-dore.html\" data-slug=\"jacques-homme-dore\" href=\"#/jacques-homme-dore\" title=\"Jacques Homme Doré\">Jacques Homme Doré</a> seraient issus des caractéristiques linguistiques verbumproverbiques.\n</p>"
 }

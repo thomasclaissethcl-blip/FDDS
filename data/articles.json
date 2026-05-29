@@ -315,6 +315,16 @@
     "summary": "Stéphane de Saint-Empire Stéphane de Saint-Empire contemplant l'avènement de l'Empire Napoléon D'Artagnan Type Humain Activité Fondateur de la S.A. Napoléon ; Porte des bouclettes magiques Entourage Personne Ennemi de Personne Première..."
   },
   {
+    "slug": "test-perso",
+    "title": "Test de personnage",
+    "path": "pages/test-perso.html",
+    "categories": [
+      "Personnage"
+    ],
+    "image": "",
+    "summary": "Test d'article personnage depuis l'éditeur"
+  },
+  {
     "slug": "vega",
     "title": "Vega",
     "path": "pages/vega.html",

@@ -6,5 +6,18 @@
   "categories": [
     "Industrie"
   ],
+  "template": "general",
+  "characterCard": {
+    "enabled": false,
+    "image": "",
+    "imageAlt": "",
+    "caption": "",
+    "type": "",
+    "activity": "",
+    "entourage": "",
+    "enemyOf": "",
+    "firstAppearance": "",
+    "status": ""
+  },
   "bodyHtml": "<figure class=\"media-figure\"> <a href=\"assets/images/publicite-patee-pour-chats-nd-a.webp\"><img alt=\"Détail d’une affiche publicitaire ventant les mérites de la pâtée pour chats pour le voyage intersidéral.\" src=\"assets/images/publicite-patee-pour-chats-nd-a.webp\"/></a> <figcaption class=\"media-caption\">  Détail d’une affiche publicitaire ventant les mérites de la pâtée pour chats pour le voyage intersidéral. </figcaption> </figure>\n<p>La pâtée pour chats est une substance d’origine inconnue, brevetée par la S.A Napoléon à sa création par <a data-page=\"pages/stephane-de-saint-empire.html\" data-slug=\"stephane-de-saint-empire\" href=\"#/stephane-de-saint-empire\" title=\"Stéphane de Saint-Empire\">Stéphane de Saint-Empire</a>.\n</p><p>Lors des prémices de la conquête spatiale, des expérimentations d’incorporation de pâtée pour chats aux ergols pour moteurs de fusées ont conduit à la découverte du nouveau carburant transluminique non-calant. En équilibrant la formule acidobasique du carburant transluminique, la pâtée pour chats empêche les moteurs de cargos spatiaux de caler, permettant le voyage inter-sidéral.\n</p><p>Avec la <a data-page=\"pages/moustiquaire.html\" data-slug=\"moustiquaire\" href=\"#/moustiquaire\" title=\"Moustiquaire\">moustiquaire</a>, la pâtée pour chats est à ce titre l’un des piliers fondamentaux de l’expansion et de l’équilibre de l’Empire Galactique.\n</p><p>Le monopole de sa production, de sa diffusion et de son utilisation est détenu par la SARL multi-galactique <a data-page=\"pages/napoleon-d-artagnan.html\" data-slug=\"napoleon-d-artagnan\" href=\"#/napoleon-d-artagnan\" title=\"Napoléon D’Artagnan\">Napoléon D’Artagnan</a>.\n</p>"
 }

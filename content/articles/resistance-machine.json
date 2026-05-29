@@ -6,5 +6,18 @@
   "categories": [
     "Politique"
   ],
+  "template": "general",
+  "characterCard": {
+    "enabled": false,
+    "image": "",
+    "imageAlt": "",
+    "caption": "",
+    "type": "",
+    "activity": "",
+    "entourage": "",
+    "enemyOf": "",
+    "firstAppearance": "",
+    "status": ""
+  },
   "bodyHtml": "<figure class=\"media-figure\"> <a href=\"assets/images/embleme-resistance-machine.webp\"><img alt=\"Projection possible de l’emblème de la résistance Machine, si elle avait pu exister.\" src=\"assets/images/embleme-resistance-machine.webp\"/></a> <figcaption class=\"media-caption\">  Projection possible de l’emblème de la résistance Machine, si elle avait pu exister. </figcaption> </figure>\n<p>La résistance Machine est un mouvement de contestation des Machins contre l’oppression supposée de l’Empire Galactique et de Napoléon D’Artagnan.\n</p><p>Elle aurait pu exister si Jacques Monaud, son leader charismatique, avait été là.\n</p>\n<h2 id=\"Liste_exhaustive_des_résistants_machins\">Liste exhaustive des résistants machins</h2>\n<ul><li><span class=\"missing-page\" title=\"Jacques Monaud (page inexistante)\">Jacques Monaud</span>.</li></ul>"
 }

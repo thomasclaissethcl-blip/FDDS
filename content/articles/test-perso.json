@@ -1,0 +1,23 @@
+{
+  "slug": "test-perso",
+  "title": "Test de personnage",
+  "summary": "Test d'article personnage depuis l'éditeur",
+  "image": "",
+  "categories": [
+    "Personnage"
+  ],
+  "template": "character",
+  "characterCard": {
+    "enabled": true,
+    "image": "",
+    "imageAlt": "Test de texte alternatif",
+    "caption": "Ceci est une image de test",
+    "type": "Test type",
+    "activity": "Test activité",
+    "entourage": "Test entourage",
+    "enemyOf": "Test ennemi",
+    "firstAppearance": "Test première apparition",
+    "status": "Test état"
+  },
+  "bodyHtml": "<h2>Test de titre 2</h2><h3>Test de titre 3</h3><p>Test de paragraphe.</p><blockquote>Test de citation.</blockquote><figure><img src=\"assets/images/source-sure.webp\" alt=\"Texte alternatif\"><figcaption>Texte alternatif</figcaption></figure><blockquote><br></blockquote>"
+}
