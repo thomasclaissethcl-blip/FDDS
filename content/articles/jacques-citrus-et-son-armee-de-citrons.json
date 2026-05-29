@@ -7,9 +7,9 @@
     "Personnage",
     "Politique"
   ],
-  "template": "general",
+  "template": "character",
   "characterCard": {
-    "enabled": false,
+    "enabled": true,
     "image": "assets/images/armee-de-citrons.webp",
     "imageAlt": "Jacques Citrus et son armée de citrons",
     "caption": "",

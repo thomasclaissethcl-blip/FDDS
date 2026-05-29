@@ -6,9 +6,9 @@
   "categories": [
     "Race galactique"
   ],
-  "template": "general",
+  "template": "character",
   "characterCard": {
-    "enabled": false,
+    "enabled": true,
     "image": "",
     "imageAlt": "Le Rôdeur",
     "caption": "",

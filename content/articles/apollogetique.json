@@ -6,9 +6,9 @@
   "categories": [
     "Notion"
   ],
-  "template": "general",
+  "template": "character",
   "characterCard": {
-    "enabled": false,
+    "enabled": true,
     "image": "",
     "imageAlt": "Apollogétique",
     "caption": "",
