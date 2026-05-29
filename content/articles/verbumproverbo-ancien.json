@@ -7,11 +7,10 @@
     "Langue",
     "Notion"
   ],
-  "template": "general",
   "characterCard": {
     "enabled": false,
     "image": "",
-    "imageAlt": "",
+    "imageAlt": "Verbumproverbo ancien",
     "caption": "",
     "type": "",
     "activity": "",

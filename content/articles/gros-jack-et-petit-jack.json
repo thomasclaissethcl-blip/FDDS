@@ -6,7 +6,6 @@
   "categories": [
     "Personnage"
   ],
-  "template": "character",
   "characterCard": {
     "enabled": true,
     "image": "assets/images/gros-jack-et-petit-jack-1.webp",

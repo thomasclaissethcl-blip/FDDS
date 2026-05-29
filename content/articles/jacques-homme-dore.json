@@ -6,7 +6,6 @@
   "categories": [
     "Personnage"
   ],
-  "template": "character",
   "characterCard": {
     "enabled": true,
     "image": "assets/images/statue-gadine-de-jhd.webp",

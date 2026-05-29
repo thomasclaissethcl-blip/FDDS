@@ -6,9 +6,8 @@
   "categories": [
     "Source"
   ],
-  "template": "character",
   "characterCard": {
-    "enabled": true,
+    "enabled": false,
     "image": "assets/images/source-sure.webp",
     "imageAlt": "Source Sûre",
     "caption": "",

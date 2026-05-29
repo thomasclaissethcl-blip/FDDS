@@ -228,8 +228,8 @@
     "title": "Napoléon D’Artagnan",
     "path": "pages/napoleon-d-artagnan.html",
     "categories": [
-      "Politique",
-      "Industrie"
+      "Industrie",
+      "Politique"
     ],
     "image": "assets/images/site-community-image.webp",
     "summary": "Logo originel de la SARL Napoléon D’Artagnan, montée en étendard officiel de l’Empire Galactique lors de sa prise de pouvoir. Napoléon D’Artagnan, ou ND’A, est une Société Anonyme à Responsabilité Limitée Multi-Galactique consacrée au..."
@@ -313,16 +313,6 @@
     ],
     "image": "assets/images/stephane-de-saint-empire.webp",
     "summary": "Stéphane de Saint-Empire Stéphane de Saint-Empire contemplant l'avènement de l'Empire Napoléon D'Artagnan Type Humain Activité Fondateur de la S.A. Napoléon ; Porte des bouclettes magiques Entourage Personne Ennemi de Personne Première..."
-  },
-  {
-    "slug": "test-perso",
-    "title": "Test de personnage",
-    "path": "pages/test-perso.html",
-    "categories": [
-      "Personnage"
-    ],
-    "image": "",
-    "summary": "Test d'article personnage depuis l'éditeur"
   },
   {
     "slug": "vega",

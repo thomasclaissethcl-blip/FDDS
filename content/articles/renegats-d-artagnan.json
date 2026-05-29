@@ -6,11 +6,10 @@
   "categories": [
     "À catégoriser"
   ],
-  "template": "general",
   "characterCard": {
     "enabled": false,
     "image": "",
-    "imageAlt": "",
+    "imageAlt": "Renégats D’Artagnan",
     "caption": "",
     "type": "",
     "activity": "",
@@ -19,5 +18,5 @@
     "firstAppearance": "",
     "status": ""
   },
-  "bodyHtml": "<p>Les renégats d’Artagnan est une faction s’étant secrètement constituée au sein de la Toute Puissante S.A.R.L. Napoléon d'Artagnan. Faction créée en raison de la perte d'acquis sociaux (primes, 13e mois, etc.), et s’étant donnée pour mission de saboter le projet de la cellule parfaite. Trois sabotages leur sont crédités à date : \n</p>\n<ol><li>Opération « <a class=\"external-link\" href=\"https://flashdogdukesilver.bandcamp.com/album/s01e03-le-r-deur-du-cargo\" rel=\"noopener noreferrer\" target=\"_blank\">Rôdeur du cargo</a> » : elle a envoyé le rôdeur du cargo pour saboter l’expédition du Cargo_Synapse.</li>\n<li>Opération « Vega » : elle a embauché Vega pour assassiner le survivant JHD.</li>\n<li>Opération « <a class=\"external-link\" href=\"https://www.youtube.com/watch?v=xedbkxydvSY\" rel=\"noopener noreferrer\" target=\"_blank\">Super Militant</a> » : elle a envoyé une expédition sur la planète des Machins pour saboter les expériences de la cellule parfaite. L’expédition instaure des conflits sociaux chez les Machins, et profitant d’une révolte sociale, injecte le produit « Super Militant » dans les backlogs des Machins, c’est ce qui contribuera à transformer JHD en JSHP.</li></ol>"
+  "bodyHtml": "<p>Les renégats d’Artagnan est une faction s’étant secrètement constituée au sein de la Toute Puissante S.A.R.L. Napoléon d'Artagnan. Faction créée en raison de la perte d'acquis sociaux (primes, 13e mois, etc.), et s’étant donnée pour mission de saboter le projet de la cellule parfaite. Trois sabotages leur sont crédités à date&nbsp;: \n</p>\n<ol><li>Opération «&nbsp;<a class=\"external-link\" href=\"https://flashdogdukesilver.bandcamp.com/album/s01e03-le-r-deur-du-cargo\" rel=\"noopener noreferrer\" target=\"_blank\">Rôdeur du cargo</a>&nbsp;»&nbsp;: elle a envoyé le rôdeur du cargo pour saboter l’expédition du Cargo_Synapse.</li>\n<li>Opération «&nbsp;Vega&nbsp;»&nbsp;: elle a embauché Vega pour assassiner le survivant JHD.</li>\n<li>Opération «&nbsp;<a class=\"external-link\" href=\"https://www.youtube.com/watch?v=xedbkxydvSY\" rel=\"noopener noreferrer\" target=\"_blank\">Super Militant</a>&nbsp;»&nbsp;: elle a envoyé une expédition sur la planète des Machins pour saboter les expériences de la cellule parfaite. L’expédition instaure des conflits sociaux chez les Machins, et profitant d’une révolte sociale, injecte le produit «&nbsp;Super Militant&nbsp;» dans les backlogs des Machins, c’est ce qui contribuera à transformer JHD en JSHP.</li></ol>"
 }

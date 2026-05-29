@@ -6,7 +6,6 @@
   "categories": [
     "Personnage"
   ],
-  "template": "character",
   "characterCard": {
     "enabled": true,
     "image": "assets/images/rochdie-des-cartes-est-une-chasseuse-de-primes.webp",

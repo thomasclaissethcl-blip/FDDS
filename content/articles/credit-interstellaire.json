@@ -6,9 +6,8 @@
   "categories": [
     "Économie"
   ],
-  "template": "character",
   "characterCard": {
-    "enabled": true,
+    "enabled": false,
     "image": "assets/images/ci-devise-interstellaire.webp",
     "imageAlt": "Crédit Interstellaire",
     "caption": "",

@@ -6,9 +6,8 @@
   "categories": [
     "Vaisseau spatial"
   ],
-  "template": "character",
   "characterCard": {
-    "enabled": true,
+    "enabled": false,
     "image": "assets/images/cargo-synapse.webp",
     "imageAlt": "Cargo Synapse",
     "caption": "",

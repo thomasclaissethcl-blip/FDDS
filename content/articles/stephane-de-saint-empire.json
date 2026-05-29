@@ -6,7 +6,6 @@
   "categories": [
     "Personnage"
   ],
-  "template": "character",
   "characterCard": {
     "enabled": true,
     "image": "assets/images/stephane-de-saint-empire.webp",
