@@ -6,11 +6,11 @@
   "categories": [
     "Notion"
   ],
-  "template": "general",
+  "template": "character",
   "characterCard": {
-    "enabled": false,
+    "enabled": true,
     "image": "",
-    "imageAlt": "",
+    "imageAlt": "Chroniqueurs",
     "caption": "",
     "type": "",
     "activity": "",
