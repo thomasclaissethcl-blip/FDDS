@@ -1,13 +1,13 @@
 {
-  "locked": false,
-  "message": "Verrou éditorial libéré.",
-  "editorName": "Docteur Thomas",
-  "sessionId": "2854d3ed-a002-445f-9366-0a30d400f96a",
+  "locked": true,
+  "message": "Un chroniqueur est en train de produire.",
+  "editorName": "Docteur Connard",
+  "sessionId": "3e0b46b4-dbbc-4bb8-8fba-ee0c126f9ffb",
   "repository": "thomasclaissethcl-blip/FDDS",
   "branch": "main",
   "prefix": "",
-  "createdAt": "2026-05-29T14:59:54.690Z",
-  "updatedAt": "2026-05-29T16:06:49.525Z",
-  "expiresAt": "2026-05-29T16:06:49.525Z",
-  "releasedAt": "2026-05-29T16:06:49.525Z"
+  "createdAt": "2026-05-30T09:48:31.571Z",
+  "updatedAt": "2026-05-30T09:48:31.571Z",
+  "expiresAt": "2026-05-30T10:08:31.571Z",
+  "releasedAt": null
 }
